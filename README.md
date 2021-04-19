@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Anything related to DevOps and cloud 
 - 📫 How to reach me chaitanyaphani456@gmail.com
-aileufho
-ljshdvbk
-
-awjhdbv
 
 <!---
 chaitanyaphani/chaitanyaphani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
